@@ -1,0 +1,376 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"defaultMa",
+				"defaultMarketTypeObj"
+			],
+			[
+				"selectedD",
+				"selectedDemographics"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Chrome.sublime-build",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack re",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 539.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"sublime.Window.activeView()",
+			"sublime.Window",
+			"sublime_window",
+			"sublime.window",
+			"sublime",
+			"Window",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_css.resource/pp_css/css/pricing.css",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_css_luke.resource/pp_css/css/pricing.css",
+		"/Users/lukemcf/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/package.xml",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/pages/PricingEntry.page",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_ngApp_luke.resource/pp_ngApp/controllers/flightDetailCtrl.js",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/pages/ProposalPlus_Luke.page",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/components/ProposalPlusResources_luke.component",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/pages/ProposalPlus.page-meta.xml",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/pages/ProposalPlus_HomePartial.page",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/pages/Proto_Output.page",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/package.json",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_ngApp_luke.resource/pp_ngApp/services/flightService.js",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/dev.zsh",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_ngApp_luke.resource/pp_ngApp/services/marketsService.js",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/pages/IndividualFlightView.page",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_ngApp_luke.resource/pp_ngApp/application.js",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/pages/ProposalPlus_SS_PanelSearchCritPartial.page",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/pages/IndividualFlightView_luke.page",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_ngApp_luke.resource/pp_ngApp/controllers/pricingCtrl.js",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/classes/MassEditActivities.cls",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/staticresources/Multiselect.resource",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/node_modules/karma-chrome-launcher/index.js",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_test_luke.resource/pp_test/unit/controllers/pricingCtrlSpec.js",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_test.resource/pp_test/unit/controllers/pricingCtrlSpec.js",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_ngApp_luke.resource/pp_ngApp/services/demographicsService.js",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/staticresources/flag.resource",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_ngApp.resource/pp_ngApp/controllers/flightDetailCtrl.js",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_ngApp.resource/pp_ngApp/controllers/FlightTabsCtrl.js",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/pages/FlightBrowser.page-meta.xml",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/classes/FlightUtilities.cls-meta.xml",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_ngApp.resource/pp_ngApp/services/flightService.js",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/pages/FlightBrowser.page",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/classes/FlightUtilities.cls",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/node_modules/karma/lib/file-list.js",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/classes/InvoiceHandler.cls",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_ngApp_luke.resource/pp_ngApp/services/userService.js",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_ngApp_luke.resource/pp_ngApp/services/planService.js",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_ngApp_luke.resource/pp_ngApp/services/pricingDataService.js",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/classes/DescribeHelper.cls-meta.xml",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/dev.sh",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/node_modules/karma/node_modules/glob/test/mark.js",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/components/ProposalPlusResources_Kjp.component",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/components/ProposalPlusResources_alex.component",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/components/ProposalPlusResources.component",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/src/pages/ProposalPlus.page",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/node_modules/karma/node_modules/glob/test/pause-resume.js",
+		"/Users/lukemcf/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/lukemcf/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/team.sh",
+		"/Users/lukemcf/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_ngApp_luke.resource/pp_ngApp/mocks/ngForceMocks.js",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/AngularTestRunnerOffline.html",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_ngApp_luke.resource/pp_ngApp/filters/dynamic.js",
+		"/Users/lukemcf/Library/Application Support/Sublime Text 3/Packages/User/JavascriptBeautify.sublime-settings",
+		"/Users/lukemcf/Library/Application Support/Sublime Text 3/Packages/User/Chrome.sublime-build",
+		"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/clear_channel_c2_sbox.sublime-project",
+		"/Users/lukemcf/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/lukemcf/Library/Application Support/Sublime Text 3/Packages/MavensMate/mavensmate.sublime-settings",
+		"/Users/lukemcf/Library/Application Support/Sublime Text 3/Packages/User/mavensmate.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_ngApp_luke.resource/pp_ngApp/controllers",
+			"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_ngApp_luke.resource,-ngGrid.js,-ui-bootstrap.min.js",
+			"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_ngApp_luke.resource,-ngGrid.js",
+			"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles/pp_ngApp_luke.resource",
+			"/Users/lukemcf/mm_workspace/clear_channel_c2_sbox/resource-bundles"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"flight-title-row",
+			"b",
+			"bold",
+			"flight-header",
+			"8px",
+			"getMarketNames",
+			"setDefaultDMA",
+			"$watch",
+			"DMA",
+			"selectedBuyType",
+			"p6",
+			"p5",
+			"defaultDemo",
+			"scope",
+			"sf",
+			"FROM User",
+			"dirname",
+			", ",
+			"query",
+			"data.q",
+			"provide",
+			"PlanService",
+			"$window",
+			"location",
+			"script",
+			"ng",
+			"../../",
+			"../../../",
+			"When"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"p6"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "RenameResourceBundlesCommand.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pricing",
+				"resource-bundles/pp_css_luke.resource/pp_css/css/pricing.css"
+			],
+			[
+				"pricing.css",
+				"resource-bundles/pp_css.resource/pp_css/css/pricing.css"
+			],
+			[
+				"pricingentr",
+				"src/pages/PricingEntry.page"
+			],
+			[
+				"proposal",
+				"src/pages/ProposalPlus_Luke.page"
+			],
+			[
+				"flightdetail",
+				"resource-bundles/pp_ngApp_luke.resource/pp_ngApp/controllers/flightDetailCtrl.js"
+			],
+			[
+				"proposalplus_ss_panelsearchcritpartial",
+				"src/pages/ProposalPlus_SS_PanelSearchCritPartial.page"
+			],
+			[
+				"market",
+				"resource-bundles/pp_ngApp_luke.resource/pp_ngApp/services/marketsService.js"
+			],
+			[
+				"flightserv",
+				"resource-bundles/pp_ngApp_luke.resource/pp_ngApp/services/flightService.js"
+			],
+			[
+				"indivial",
+				"src/pages/IndividualFlightView.page"
+			],
+			[
+				"flightservi",
+				"resource-bundles/pp_ngApp_luke.resource/pp_ngApp/services/flightService.js"
+			],
+			[
+				"flightdeta",
+				"resource-bundles/pp_ngApp_luke.resource/pp_ngApp/controllers/flightDetailCtrl.js"
+			],
+			[
+				"flight",
+				"resource-bundles/pp_ngApp.resource/pp_ngApp/controllers/flightDetailCtrl.js"
+			],
+			[
+				"demogra",
+				"resource-bundles/pp_ngApp_luke.resource/pp_ngApp/services/demographicsService.js"
+			],
+			[
+				"invidua",
+				"src/pages/IndividualFlightView.page"
+			],
+			[
+				"flightdet",
+				"resource-bundles/pp_ngApp_luke.resource/pp_ngApp/controllers/flightDetailCtrl.js"
+			],
+			[
+				"pricingctrl",
+				"resource-bundles/pp_ngApp_luke.resource/pp_ngApp/controllers/pricingCtrl.js"
+			],
+			[
+				"markets",
+				"resource-bundles/pp_ngApp_luke.resource/pp_ngApp/services/marketsService.js"
+			],
+			[
+				"proposalplusresources",
+				"src/components/ProposalPlusResources_luke.component"
+			],
+			[
+				"plan",
+				"resource-bundles/pp_ngApp_luke.resource/pp_ngApp/services/planService.js"
+			],
+			[
+				"pricingdata",
+				"resource-bundles/pp_ngApp_luke.resource/pp_ngApp/services/pricingDataService.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 684.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 574.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
