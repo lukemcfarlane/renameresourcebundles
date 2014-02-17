@@ -3,7 +3,7 @@ Rename Resource Bundles
 A Sublime Text 3 plugin.
 -------------------------
 
-Given a suffix e.g. "_harry", rename all MavensMate resource bundle folders in the currently
+Given a suffix e.g. "\_harry", rename all MavensMate resource bundle folders in the currently
 open Force.com project from the format "my_bundle.resource" to "my_bundle_harry.resource". If
 a bundle name already has the specified suffix then remove it.
 
