@@ -4,7 +4,7 @@
  #
  # Example keyboard shortcut:
  # {
- #   "caption": "Rename Resource Bundles",
+ #   "keys": ["super+shift+h"],
  #   "command": "rename_resource_bundles",
  #   "args": {
  #       "suffix": "_harry"
