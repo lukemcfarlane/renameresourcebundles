@@ -13,7 +13,7 @@ purposes in Salesforce whist tracking a file in a remote repository.
 Example keyboard shortcut:
 
     {
-      "caption": "Rename Resource Bundles",
+      "keys": ["super+shift+h"],
       "command": "rename_resource_bundles",
       "args": {
           "suffix": "_harry"
