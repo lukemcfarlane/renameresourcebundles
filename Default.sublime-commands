@@ -3,6 +3,6 @@
 	"caption": "CCO: Rename Resource Bundles",
 	"command": "rename_resource_bundles",
 	"args": {
-		"suffix": "testsuffix"
+		"suffix": "_local"
 	}
 }]
