@@ -11,10 +11,11 @@ This can be useful when a copy (branch) of a resource bundle needs to exist for 
 purposes in Salesforce whist tracking a file in a remote repository.
 
 Example keyboard shortcut:
-{
-  "caption": "Rename Resource Bundles",
-  "command": "rename_resource_bundles",
-  "args": {
-      "suffix": "_harry"
-  }
-}
+
+    {
+      "caption": "Rename Resource Bundles",
+      "command": "rename_resource_bundles",
+      "args": {
+          "suffix": "_harry"
+      }
+    }
