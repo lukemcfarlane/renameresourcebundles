@@ -19,3 +19,13 @@ Example keyboard shortcut:
           "suffix": "_harry"
       }
     }
+
+
+Installation
+------------
+
+Copy the following files into a new folder "RenameResourceBundles" inside your Sublime Packages directory:
+- RenameResourceBundlesCommand.py
+- Default.sublime-commands
+
+**Note:** to locate your Sublime Packages directory, from within Sublime Text go to the Sublime Text menu -> Preferences -> Browse Packages.
