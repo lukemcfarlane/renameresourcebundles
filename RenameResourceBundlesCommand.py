@@ -17,7 +17,9 @@ import sublime, sublime_plugin, os.path, os, re
 
 class RenameResourceBundlesCommand(sublime_plugin.WindowCommand):
     def run(self, suffix):
-        basedir = self.window.project_data()["folders"][0]["path"]
+        basedir = self.window.folders()[0];
+        baseDirAbs = os.path.abspath(basedir)
+        print("Found base directory: " + baseDirAbs)
         resourceBundlesPath = os.path.join(basedir, "resource-bundles")
         for dirName in os.listdir(resourceBundlesPath):
             fullPath = os.path.join(resourceBundlesPath, dirName)
